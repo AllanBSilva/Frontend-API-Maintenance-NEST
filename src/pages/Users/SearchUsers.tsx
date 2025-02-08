@@ -155,7 +155,6 @@ const styles = {
     marginBottom: '10px',
     display: 'flex',
     flexDirection: 'column' as 'column',
-    //alignItems: 'center' as 'center',
   },
   formGroup: {
     marginBottom: '10px',
@@ -163,7 +162,6 @@ const styles = {
     maxWidth: '400px', // Tamanho máximo do form
   },
   label: {
-    //display: 'block',
     fontWeight: 'bold',
     marginBottom: '5px',
   },
